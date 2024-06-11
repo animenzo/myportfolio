@@ -274,6 +274,8 @@ color: var(--background-color);
 }
 .home-image{
     position: relative;
+    margin-right: 150px;
+   
 }
 .img-box {
 text-align: center;
@@ -281,7 +283,7 @@ text-align: center;
 .img-box img{
     width: 100%;
     max-width: 450px;
-    height: 800px;
+    height: 600px;
     
 }
 
@@ -903,6 +905,7 @@ footer a{
      .img-box img{
         width: 70%;
         height: 70%;
+        border-radius: 50%;
     }
     .home-content {
        max-width: 300px;
